@@ -37,9 +37,9 @@ WIP
 ### `/unban <user> <reason> <dm:y/n>`
 WIP
 ## Messages
-### `/message set <content> <embeds> <channel> <webhook>
+### `/message set <content> <embeds> <channel> <webhook>`
 WIP
-### `/message edit <content> <embeds> <message.link>
+### `/message edit <content> <embeds> <message.link>`
 WIP
 ### `/embed list`
 WIP
