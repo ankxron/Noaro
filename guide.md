@@ -37,7 +37,7 @@ WIP
 ### `/unban <user> <reason> <dm:y/n>`
 WIP
 ## Messages
-### `/message set <content> <embeds> <channel> <webhook>`
+### `/message set <content> <embeds> <channel> <webhook.link>`
 WIP
 ### `/message edit <content> <embeds> <message.link>`
 WIP
@@ -48,4 +48,14 @@ WIP
 ### `/embed edit <name>`
 WIP
 ### `/embed remove <name>`
+WIP
+## Greet
+### `/greet list`
+### `/greet set <content> <image> <embeds>`
+WIP
+### `/greet remove <index>`
+WIP
+### `/leave set <content> <image> <embeds>`
+WIP
+### `/leave remove <index>`
 WIP
