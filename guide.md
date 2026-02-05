@@ -51,11 +51,35 @@ WIP
 WIP
 ## Greet
 ### `/greet list`
+WIP
 ### `/greet set <content> <image> <embeds>`
 WIP
 ### `/greet remove <index>`
 WIP
+### `/greet role list`
+WIP
+### `/greet role set <role>`
+WIP
+### `/greet role remove <role>`
+WIP
 ### `/leave set <content> <image> <embeds>`
 WIP
 ### `/leave remove <index>`
+WIP
+## Ranking
+### `/rank <user>`
+WIP
+### `/rank lb <type>`
+WIP
+### `/rank role list`
+WIP
+### `/rank role set <level> <role> <role.remove>`
+WIP
+### `/rank role remove <index>`
+WIP
+### `/rank bonuse set <role> <multiply>`
+WIP
+### `/rank bonuse remove <index>`
+WIP
+### `/rank set <user> <level> <xp>`
 WIP
