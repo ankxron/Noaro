@@ -1,25 +1,25 @@
 # Bot Guide
 ## Commands
-`/settings`
+`/settings`\n
 Configure your guild with different modules.
 
-`/help <module>`
+`/help <module>`\n
 Show all commands and description.
 
-`/check <user>`
--
+`/check <user>`\n
+WIP
 
-`/warn <user> <reason>`
--
+`/warn <user> <reason>`\n
+WIP
 
-`/warn remove <user> <index>`
--
+`/warn remove <user> <index>`\n
+WIP
 
-`/mute <user>`
--
+`/mute <user>`\n
+WIP
 
-`/deafen <user>`
--
+`/deafen <user>`\n
+WIP
 
-`/timeout <user> <time>`
--
+`/timeout <user> <time>`\n
+WIP
