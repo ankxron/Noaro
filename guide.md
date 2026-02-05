@@ -83,3 +83,13 @@ WIP
 WIP
 ### `/rank set <user> <level> <xp>`
 WIP
+## Music
+### `/play <link>`
+WIP
+### `/skip`
+WIP
+### `/stop`
+WIP
+## Tickets
+### `/ticket set <content> <image> <embeds> <themes> <channel> <webhook.link>`
+WIP
